@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[5555],{3777:a=>{a.exports=JSON.parse('{"tags":[{"label":"catatan","permalink":"/mjazuly-sites/tags/catatan","description":"Semua catatan untuk blog","count":1}]}')}}]);

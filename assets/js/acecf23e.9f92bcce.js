@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/mjazuly-sites/","blogTitle":"Blog","authorsListPath":"/mjazuly-sites/authors"}')}}]);

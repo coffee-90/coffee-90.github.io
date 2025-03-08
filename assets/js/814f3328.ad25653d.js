@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Migrasi VDI VBOX ke Proxmox","permalink":"/mjazuly-sites/migrasi-vdi-proxmox","unlisted":false,"date":"2023-10-04T00:00:00.000Z"}]}')}}]);
