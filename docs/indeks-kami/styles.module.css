@@ -1,0 +1,51 @@
+/*
+description: untuk pemilihan kondisi jawaban/status
+source: https://www.w3schools.com/html/html_css.asp
+*/
+
+j0 {
+    color:gray; 
+    font-weight: bold;   
+}
+
+j1 {
+    color:orange;
+    font-weight: bold; 
+}
+
+j2 {
+    color:	#f1d217;
+    font-weight: bold;
+}
+
+j3 {
+    color:green;
+    font-weight: bold;
+}
+
+j4 {
+    color:darkolivegreen;
+    font-weight: bold;
+}
+
+/*
+description: images
+source: 
+- https://dev.to/bdavidxyz/markdown-center-image-39j1
+- https://www.w3schools.com/css/css3_image_center.asp
+*/
+img[src*='center'] {
+    display: block;
+    /* margin-right: 10px;
+    margin-left: 10px; */
+    margin: auto;
+    max-width: 90%;
+    border-radius: 1%;
+    border : 2px solid rgba(128, 128, 128, 0.479);
+    box-shadow: 5px 5px grey;
+    padding: 2px;
+}
+
+imgdes {
+    text-align: center;
+}

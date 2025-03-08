@@ -1,0 +1,14 @@
+ikami:
+  label: Indeks KAMI
+  permalink: /ikami
+  description: Tentang Indeks Keamanan Informasi (IKAMI) based on SNI ISO/IEC 27001
+
+catatan:
+  label: catatan
+  permalink: /catatan
+  description: Semua catatan untuk blog
+
+ctf:
+  label: CTF
+  permalink: /ctf
+  description: Catatan tentang Capture The Flag (CTF)
