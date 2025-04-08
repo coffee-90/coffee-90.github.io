@@ -13,7 +13,8 @@
         <link href="https://coffee-90.github.io/migrasi-vdi-proxmox"/>
         <updated>2023-10-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Step by step!]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="step-by-step">Step by step!<a href="https://coffee-90.github.io/migrasi-vdi-proxmox#step-by-step" class="hash-link" aria-label="Direct link to Step by step!" title="Direct link to Step by step!">​</a></h2>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://coffee-90.github.io/migrasi-vdi-proxmox/#center" alt="" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="step-by-step">Step by step!<a href="https://coffee-90.github.io/migrasi-vdi-proxmox#step-by-step" class="hash-link" aria-label="Direct link to Step by step!" title="Direct link to Step by step!">​</a></h2>
 <ol>
 <li>Temukan file .vdi VM Anda - Pertama, kita perlu mencari file hard disk VirtualBox (.vdi).<!-- -->
 <ul>
