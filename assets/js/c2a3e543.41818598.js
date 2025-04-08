@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[8885],{2937:a=>{a.exports=JSON.parse('{"tags":[{"label":"catatan","permalink":"/tags/catatan","description":"Semua catatan untuk blog","count":1}]}')}}]);

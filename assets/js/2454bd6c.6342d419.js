@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[7237],{6555:a=>{a.exports=JSON.parse('{"tags":[{"label":"Indeks KAMI","permalink":"/mjazuly-sites/docs/tags/ikami","description":"Tentang Indeks Keamanan Informasi (IKAMI) based on SNI ISO/IEC 27001","count":1}]}')}}]);
