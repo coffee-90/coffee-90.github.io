@@ -13,8 +13,8 @@
             <link>https://coffee-90.github.io/migrasi-vdi-proxmox</link>
             <guid>https://coffee-90.github.io/migrasi-vdi-proxmox</guid>
             <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Step by step!]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://coffee-90.github.io/migrasi-vdi-proxmox/#center" alt="" class="img_ev3q"></p>
+            <description><![CDATA[Tutorial migrasi image virtualbox vdi ke image proxmox untuk virtualisasi]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://i.postimg.cc/CxKZn6R2/Migrasi-VDI-VBOX-ke-Proxmox.png#center" alt="" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="step-by-step">Step by step!<a href="https://coffee-90.github.io/migrasi-vdi-proxmox#step-by-step" class="hash-link" aria-label="Direct link to Step by step!" title="Direct link to Step by step!">​</a></h2>
 <ol>
 <li>Temukan file .vdi VM Anda - Pertama, kita perlu mencari file hard disk VirtualBox (.vdi).<!-- -->
@@ -87,8 +87,48 @@ Intinya -&gt; hapus key pada baris yang ditampilkan error. Kemudian login ulang.
 <ul>
 <li><a href="https://lms.onnocenter.or.id/wiki/index.php/Proxmox:_Migrasi_VDI_VirtualBox_ke_Proxmox" target="_blank" rel="noopener noreferrer">lms.onnocenter.or.id</a></li>
 <li><a href="https://www.mampirklik.com/2017/11/tip-cara-migrasi-virtualbox-vdi-ke.html" target="_blank" rel="noopener noreferrer">mampirklik.com</a></li>
-</ul>]]></content:encoded>
+</ul>
+<hr>
+<p><a href="https://saweria.co/mjazuly" target="_blank" rel="noopener noreferrer"><img decoding="async" loading="lazy" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png#bmc" alt="buy me a coffee" class="img_ev3q"></a></p>]]></content:encoded>
             <category>catatan</category>
+            <category>proxmox</category>
+            <category>virtualbox</category>
+        </item>
+        <item>
+            <title><![CDATA[Unlimited Trial IDM]]></title>
+            <link>https://coffee-90.github.io/unlimited-trial-idm</link>
+            <guid>https://coffee-90.github.io/unlimited-trial-idm</guid>
+            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Internet Download Manager (IDM) Unlimited Trial Full Version]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://i.postimg.cc/1XTcNbpc/Chat-GPT-Image-Apr-9-2025-04-33-56-AM.png#center" alt="" class="img_ev3q"></p>
+<p>Hi, kali ini saya membagikan tips bagaimana kita bisa menggunakan software Internet Download Manager (IDM) Full Version tanpa crack.</p>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>warning</div><div class="admonitionContent_BuS1"><p>Lebih baik <strong>membeli lisensi secara resmi!</strong></p><p>update harga lisensi (09 April 2025)
+<img decoding="async" loading="lazy" src="https://i.postimg.cc/W3Y0QxfL/emje-1744148420.png#tengah" alt="" class="img_ev3q"></p></div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>note</div><div class="admonitionContent_BuS1"><p>Cara ini untuk <strong>OS Windows</strong> only!</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tentang-idm">Tentang IDM<a href="https://coffee-90.github.io/unlimited-trial-idm#tentang-idm" class="hash-link" aria-label="Direct link to Tentang IDM" title="Direct link to Tentang IDM">​</a></h2>
+<p>Internet Download Manager (IDM) itu semacam “senjata rahasia” buat kamu yang suka download file dari internet. Dengan IDM, kecepatan download bisa naik drastis—nggak pake buffering lama-lama. Gaya banget, soalnya dia bisa “nyedot” file dari berbagai situs cuma dengan sekali klik.</p>
+<p>IDM juga auto-nyambung kalo download kamu kepotong karena sinyal ngadat, jadi nggak perlu mulai dari awal lagi. Interface-nya simpel, tinggal install, aktifin di browser, dan boom—download langsung jalan.</p>
+<p>Pokoknya, buat yang sering unduh film, lagu, game, atau software, IDM tuh kayak sahabat setia generasi milenial yang gak suka ribet tapi pengen cepet. 😎💻⚡</p>
+<p><strong>Pastikan kamu  unduh IDM di situs resminya ya!</strong></p>
+<p><a href="https://www.internetdownloadmanager.com/" target="_blank" rel="noopener noreferrer"><span></span> <strong>Unduh IDM</strong></a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-to">How to<a href="https://coffee-90.github.io/unlimited-trial-idm#how-to" class="hash-link" aria-label="Direct link to How to" title="Direct link to How to">​</a></h2>
+<p>Cara kali ini <strong>tidak menggunakan crack</strong>, namun <strong>mengubah data dari Registry IDM itu sendiri</strong>, sehingga secara umum aman digunakan.</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>note</div><div class="admonitionContent_BuS1"><p>Kelemahan: kamu harus mengulang cara ini setiap lisensi trial habisa (kurang lebih 30 hari).</p></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="mengubah-regisrty-idm">Mengubah Regisrty IDM<a href="https://coffee-90.github.io/unlimited-trial-idm#mengubah-regisrty-idm" class="hash-link" aria-label="Direct link to Mengubah Regisrty IDM" title="Direct link to Mengubah Regisrty IDM">​</a></h3>
+<ol>
+<li>Buka Run (<code>Win + R</code>)</li>
+<li>Ketikkan <code>regedit</code>
+<img decoding="async" loading="lazy" src="https://i.postimg.cc/nLzJpc4P/emje-1744166605.png#tengah" alt="" class="img_ev3q"></li>
+<li>Buka Path <code>HKEY_USERS\S-1-5-21-***-1001_Classes\WOW6432Node\CLSID\</code></li>
+<li>Cari registry dengan kode <code>{07999AC3-058B-40BF-984F-69EB1E554CA7}</code>
+<img decoding="async" loading="lazy" src="https://i.postimg.cc/nrfgjHmZ/emje-1744166793.png#tengah" alt="" class="img_ev3q"></li>
+<li>Klik kanan &amp; delete</li>
+<li>Tutup Registry Editor</li>
+<li>Restrat (opsional)</li>
+</ol>
+<hr>
+<p><a href="https://saweria.co/mjazuly" target="_blank" rel="noopener noreferrer"><img decoding="async" loading="lazy" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png#bmc" alt="buy me a coffee" class="img_ev3q"></a></p>]]></content:encoded>
+            <category>Tips</category>
         </item>
     </channel>
 </rss>
