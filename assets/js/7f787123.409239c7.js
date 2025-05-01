@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[8656],{5903:a=>{a.exports=JSON.parse('{"tag":{"label":"csirt","permalink":"/blog/tags/csirt","allTagsPath":"/blog/tags","count":2,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/csirt","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
