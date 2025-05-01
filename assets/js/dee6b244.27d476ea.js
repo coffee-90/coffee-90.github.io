@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[3883],{8870:a=>{a.exports=JSON.parse('{"tag":{"label":"phising","permalink":"/tags/phising","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/phising","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

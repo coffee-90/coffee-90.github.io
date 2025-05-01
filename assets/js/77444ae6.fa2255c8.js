@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[9509],{825:a=>{a.exports=JSON.parse('{"tag":{"label":"persandian","permalink":"/tags/persandian","allTagsPath":"/tags","count":1,"unlisted":true},"listMetadata":{"permalink":"/tags/persandian","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
