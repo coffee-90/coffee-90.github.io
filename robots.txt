@@ -1,4 +1,4 @@
 Sitemap: https://mjazuly.fun/sitemap.xml
 
 User-agent: *
-Disallow:
+Allow: /
