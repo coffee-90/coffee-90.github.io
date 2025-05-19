@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[3812],{7038:a=>{a.exports=JSON.parse('{"tag":{"label":"ptkkss","permalink":"/tags/ptkkss","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/ptkkss","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
