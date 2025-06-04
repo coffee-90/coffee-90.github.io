@@ -1,4 +1,4 @@
-Sitemap: https://mjazuly.fun/sitemap.xml
+Sitemap: https://mjazuly.id/sitemap.xml
 
 User-agent: *
 Allow: /
