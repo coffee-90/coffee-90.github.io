@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[8107],{8102:a=>{a.exports=JSON.parse('{"tag":{"label":"kaspersky","permalink":"/tags/kaspersky","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/kaspersky","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmjazuly=self.webpackChunkmjazuly||[]).push([[7802],{1375:a=>{a.exports=JSON.parse('{"tag":{"label":"soc","permalink":"/tags/soc","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/soc","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
